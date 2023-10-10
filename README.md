@@ -7,6 +7,7 @@ This repository hosts a Unity-based educational video game aimed at teaching stu
 ## 1. Unity Engine:
 
 The game is developed using the Unity game engine, which provides a robust platform for creating interactive 2D and 3D applications.
+The latest tested version for which the game works totally is: Unity 2021-3-4f1
 
 ## 2. Gameplay Mechanics:
 
@@ -23,3 +24,10 @@ To aid students who may encounter difficulties, the game includes a hint system.
 
 ## 3. Educational Focus:
 The primary educational goal of the game is to teach students the proper format for writing letters in Spanish. By engaging in interactive gameplay, students can reinforce their understanding of letter structure and composition.
+
+# C# Scripts
+A Unity project has many files in addition to scripts that are usually not managed by the developer. If **you are only interested in seeing my work**, namely the C# scripts I wrote, go directly to the [assets folder](https://github.com/iFralex/Rompecabezas/tree/main/Assets) and open the C# files.
+
+Unfortunately, the project was not developed with the intention of publication, so the file names, variables, and functions are in Italian, and no scripts are commented or written to facilitate reading by others.
+
+Keep in mind that I programmed this video game when I was 15 years old, so you can imagine that the code is not perfect or optimized to the best, but it still works perfectly, and you can study it to understand how Unity and PUN 2 work.
