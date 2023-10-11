@@ -30,4 +30,4 @@ A Unity project has many files in addition to scripts that are usually not manag
 
 Unfortunately, the project was not developed with the intention of publication, so the file names, variables, and functions are in Italian, and no scripts are commented or written to facilitate reading by others.
 
-Keep in mind that I programmed this video game when I was 15 years old, so you can imagine that the code is not perfect or optimized to the best, but it still works perfectly, and you can study it to understand how Unity and PUN 2 work.
+Keep in mind that I programmed this video game when I was 15 years old, so you can imagine that the code is not perfect or optimized to the best, but it still works perfectly.
